@@ -1,0 +1,15 @@
+id, name,id1
+stage1, Saint Jean Pied de Port - Roncesvalles,s1
+stage2, Roncesvalles - Zubiri,s2
+stage3, Zubiri - Pamplona,s3
+stage4, Pamplona - Puente la Reina,s4
+stage5, Puente la Reina - Estella,s5
+stage6, Estella - Los Arcos,s6
+stage7, Los Arcos - Logrono,s7stage8, Logrono - Najera,s8
+stage9, Najera - Santo Domingo de la Calzada,s9stage10, Santo Domingo de la Calzada - Belorado,s10stage11, Belorado - San Juan de Ortega,s11stage12, San Juan de Ortega - Burgos,s12stage13, Burgos - Hornillos del Camino,s13
+stage14, Hornillos del Camino - Castrojeriz,s14
+stage15, Castrojeriz - Fromista,s15stage16, Fromista - Carrion de los Condes,s16
+stage17, Carrion de los Condes - Villada - Sahagun,s17
+stage18a, Carrion de los Condes - Ledigos,s18astage18b, Ledigos - Sahagun,s18b
+stage19, Sahagun - El Burgo Ranero,s19
+stage20, El Burgo Ranero - Mansilla de las Mulas,s20stage21, Mansilla de las Mulas - Leon,s21stage22a, Leon - Villadangos del Paramo,s22astage22b, Option Virgen del Camino - Hospital de Orbigo,s22bstage23a, Option Hospital de Orbigo - Santibanez de Valdeiglesias,s23astage23b, Villadangos del Paramo - Astorga,s23bstage24, Astorga - Rabanal del Camino,s24stage25, Rabanal del Camino - Ponferrada,s25stage26, Ponferrada - Villafranca del Bierzo,s26stage27a, Option Carretera Villafranca del Bierzo - Trabadelo,s27astage27b, Villafranca del Bierzo - O Cebreiro,s27bstage28a, O Cebreiro - Samos,s28astage28b, Option Triacastela - Sarria,s28bstage29, Samos - Portomarin,s29stage30, Portomarin - Palas de Rei,s30stage31, Palas de Rei - Arzua,s31stage32, Arzua - Monte del Gozo,s32stage33, Monte del Gozo - Santiago de Compostela,s33

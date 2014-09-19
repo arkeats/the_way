@@ -1,0 +1,235 @@
+"Site","Partial","Total","index"
+"Saint Jean Pied de Port",0,0,1
+"Honto",5,5,2
+"Albergue Orisson",2.5,7.5,3
+"Virgen de Biakorri",4,11.5,4
+"Fuente de Roldan",5.2,16.7,5
+"Collado",4.1,20.8,6
+"Capilla San Salvador",3.6,24.4,7
+"Roncesvalles",1.6,26,8
+"Burguete",2.9,28.9,9
+"Espinal",3.6,32.5,10
+"Alto de Mezquiritz",1.7,34.2,11
+"Bizcarreta",3.2,37.4,12
+"Lintzoain",1.9,39.3,13
+"Alto de Erro",4.5,43.8,14
+"Zubiri",3.9,47.7,15
+"Ilarratz",2.9,50.6,16
+"Ezkirotz",0.8,51.4,17
+"Larrasoana",1.8,53.2,18
+"Akerreta",0.6,53.8,19
+"Zuriain",3.2,57,20
+"Irotz",2.1,59.1,21
+"Arleta",2.5,61.6,22
+"Villaba",2.1,63.7,23
+"Burlada",1.2,64.9,24
+"Pamplona",3.4,68.3,25
+"Zizur Menor",4.8,73.1,26
+"Zariquiegui",6.2,79.3,27
+"Alto del Perdon",2.4,81.7,28
+"Uterga",3.5,85.2,29
+"Muruzabal",2.7,87.9,30
+"Obanos",1.8,89.7,31
+"Puente la Reina",2.5,92.2,32
+"Maneru",5.2,97.4,33
+"Cirauqui",2.7,100.1,34
+"Lorca",5.7,105.8,35
+"Villatuerta",4.7,110.5,36
+"Estella",4.1,114.6,37
+"Ayegui",2,116.6,38
+"Monasterio de Irache",0.9,117.5,39
+"Azqueta",4.7,122.2,40
+"Villamayor de Monjardin",1.9,124.1,41
+"Los Arcos",12.4,136.5,42
+"Sansol",6.9,143.4,43
+"Torres del Rio",0.9,144.3,44
+"Viana",10.8,155.2,45
+"Logrono",9.6,164.8,46
+"Embalse de la Grajera",6,170.8,47
+"Navarrete",6.8,177.6,48
+"Ventosa",7.3,184.9,49
+"Alto ",1.7,186.6,50
+"Najera",8.2,194.8,51
+"Azofra",5.8,200.6,52
+"Ciruena",9.5,210.1,53
+"Santo Domingo de la Calzada",5.8,215.9,54
+"Granon",6.6,222.5,55
+"Redecilla del Camino",4,226.5,56
+"Castildelgado",1.9,228.4,57
+"Viloria de Rioja",1.9,230.3,58
+"Villamayor del Rio",3.5,233.8,59
+"Belorado",4.9,238.7,60
+"Tosantos ",4.8,243.5,61
+"Villambistia",1.9,245.4,62
+"Espinosa del Camino",1.7,247.1,63
+"Villafranca de Montes de Oca",3.6,250.7,64
+"Alto de la Pedraja",3.7,254.4,65
+"San Juan de Ortega",8.5,262.9,66
+"Ages",3.8,266.7,67
+"Atapuerca",2.6,269.3,68
+"Alto (Cruz)",2.4,271.7,69
+"Cardenuela-Riopico",4,275.7,70
+"Orbaneja-Riopico",2,277.7,71
+"Villafria",3.2,280.9,72
+"Burgos",8.3,289.2,73
+"Tardajos ",9.6,298.8,74
+"Rabe de las Calzadas",2,300.8,75
+"Hornillos del Camino",7.9,308.7,76
+"Arroyo San Bol",5.7,314.4,77
+"Hontanas",5,319.4,78
+"Convento de San Anton",5.8,325.2,79
+"Castrojeriz",3.8,329,80
+"Alto de Mostelares",3.7,332.7,81
+"Fuerte pendiente de subida Ermita de San Nicolas",5.9,338.6,82
+"Itero de la Vega",1.9,340.5,83
+"Boadilla del Camino",8.1,348.6,84
+"Fromista",6.1,354.7,85
+"Poblacion de Campos",3.5,358.2,86
+"Revenga de Campos",3.7,361.9,87
+"Villarmentero de Campos",2.2,364.1,88
+"Villalcazar de Sirga",4.2,368.3,89
+"Carrion de los Condes",5.7,374,90
+"Calzadilla de la Cueza",17.2,391.2,91
+"Ledigos",6.3,397.5,92
+"Terradillos de los Templarios",3.2,400.7,93
+"Moratinos",3.4,404.1,94
+"San Nicolas del Real Camino",2.5,406.6,95
+"Sahagun",7.1,413.7,96
+"Bifurcacion Via Trajana",4.6,418.3,97
+"Bercianos del Real Camino",5.8,424.1,98
+"El Burgo Ranero",7.5,431.6,99
+"Reliegos",12.8,444.4,100
+"Mansilla de las Mulas",6.1,450.5,101
+"Villamoros de Mansilla",4.5,455,102
+"Puente de Villarente",1.7,456.7,103
+"Arcahueja",4.4,461.1,104
+"Leon",7.8,468.9,105
+"Trobajo del Camino",4.2,473.1,106
+"La Virgen del Camino",3.5,476.6,107
+"Valverde de la Virgen ",4.3,480.9,108
+"San Miguel del Camino ",1.5,482.4,109
+"Villadangos del Paramo",7.7,490.1,110
+"San Martin del Camino",4.7,494.8,111
+"Puente de Orbigo",7,501.8,112
+"Hospital de Orbigo",0.7,502.5,113
+"Villares de Orbigo",2.1,504.6,114
+"Santibanez de Valdeiglesias",2.6,507.2,115
+"Crucero de Santo Toribio",6.7,513.9,116
+"San Justo de la Vega",1.3,515.2,117
+"Astorga",3.9,519.1,118
+"Valdeviejas",2.3,521.4,119
+"Murias de Rechivaldo",2.2,523.6,120
+"Santa Catalina de Somoza",4.5,528.1,121
+"El Ganso",4.1,532.2,122
+"Rabanal del Camino",6.9,539.1,123
+"Foncebadon",5.6,544.7,124
+"Cruz de Ferro",2.1,546.8,125
+"Refugio de Manjarin",2.3,549.1,126
+"El Acebo",7,556.1,127
+"Riego de Ambros",3.6,559.7,128
+"Molinaseca",4.5,564.2,129
+"Campo",4.1,568.3,130
+"Ponferrada",3.4,571.7,131
+"Compostilla",2.9,574.6,132
+"Columbrianos",2.1,576.7,133
+"Fuentes Nuevas",2.8,579.5,134
+"Camponaraya",2.1,581.6,135
+"Cacabelos",6,587.6,136
+"Pieros",2,589.6,137
+"Villafranca del Bierzo",5.4,595,138
+"Pereje",5.4,600.4,139
+"Trabadelo",4.5,604.9,140
+"La Portela de Valcarce",3.9,608.8,141
+"Ambasmestas",1.2,610,142
+"Vega de Valcarce",1.6,611.6,143
+"Ruitelan",2.1,613.7,144
+"Las Herrerias",1.3,615,145
+"Hospital",0.9,615.9,146
+"La Faba",2.7,618.6,147
+"Laguna de Castilla",2.4,621,148
+"O Cebreiro",2.6,623.6,149
+"Linares",3.2,626.8,150
+"Alto de San Roque",1,627.8,151
+"Hospital de la Condesa",1.5,629.3,152
+"Padornelo",2.4,631.7,153
+"Alto do Poio",0.5,632.2,154
+"Fonfria",3.4,635.6,155
+"O Biduedo",2.4,638,156
+"Fillobal",3.1,641.1,157
+"Pasantes",1.6,642.7,158
+"Ramil",1.2,643.9,159
+"Triacastela",1,644.9,160
+"A Balsa",2.2,647.1,161
+"San Xil",1.3,648.4,162
+"Alto",2.1,650.5,163
+"Montan",2.2,652.7,164
+"Furela",2.8,655.5,165
+"Pintin",1.3,656.8,166
+"Calvor",1.2,658,167
+"Aguiada",0.7,658.7,168
+"San Mamede do Camino",1.2,659.9,169
+"Sarria",3.3,663.2,170
+"As Paredes",2.9,666.1,171
+"Vilei",0.8,666.9,172
+"Barbadelo",0.7,667.6,173
+"Rente",0.9,668.5,174
+"Mercado da Serra",0.8,669.3,175
+"Leiman",2.2,671.5,176
+"Peruscallo",1,672.5,177
+"Cortinas",0.8,673.3,178
+"Lavandeira",0.4,673.7,179
+"Brea",1.1,674.8,180
+"Morgade",0.6,675.4,181
+"Ferreiros",1.2,676.6,182
+"Mirallos",0.6,677.2,183
+"Couto",1.1,678.3,184
+"Moimentos",1.7,680,185
+"Mercadoiro",0.4,680.4,186
+"Parrocha",1.9,682.3,187
+"Vilacha",1.1,683.4,188
+"Portomarin",2.7,686.1,189
+"Toxibo",4.8,690.9,190
+"Gonzar",3.3,694.2,191
+"Castromaior",1.3,695.5,192
+"Hospital de la Cruz",2.6,698.1,193
+"Ventas de Naron",1.2,699.3,194
+"Ligonde",3.3,702.6,195
+"Airexe",1,703.6,196
+"Portos",2,705.6,197
+"Lestedo",0.8,706.4,198
+"Os Valos",1.2,707.6,199
+"A Brea",1.1,708.7,200
+"O Rosario",1.4,710.1,201
+"Palas de Rei",1.5,711.6,202
+"San Xulian do Camino",3.3,714.9,203
+"Pontecampana",1.2,716.1,204
+"Casanova",1.2,717.3,205
+"Coto",2.8,720.1,206
+"Leboreiro",0.7,720.8,207
+"Furelos",3.9,724.7,208
+"Melide",1.8,726.5,209
+"Raido",3.2,729.7,210
+"Boente",2.6,732.3,211
+"Castaneda",2.3,734.6,212
+"Ribadiso da Baixo",3.1,737.7,213
+"Arzua",3,740.7,214
+"Pregontono",2.2,742.9,215
+"A Peroxa",1.1,744,216
+"Taberna Vella",3,747,217
+"Calzada",0.6,747.6,218
+"Calle",2,749.6,219
+"Boavista",1.5,751.1,220
+"Salceda",1.8,752.9,221
+"Brea",2.6,755.5,222
+"Empalme",1.7,757.2,223
+"Santa Irene",1,758.2,224
+"A Rua",1.8,760,225
+"O Pedrouzo (Arca)",1,761,226
+"San Anton",1.3,762.3,227
+"Cimadevila",2.7,765,228
+"San Paio",3.7,768.7,229
+"Lavacolla",2,770.7,230
+"Vilamaior",1.1,771.8,231
+"San Marcos",3.7,775.5,232
+"Monte del Gozo",0.5,776,233
+"Santiago de Compostela",4.8,780.8,234
